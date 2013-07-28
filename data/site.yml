@@ -1,0 +1,15 @@
+title:            I'm writing a book and an app in one month. These are my notes.
+url:              http://notes.OneAppOneBookOneMonth.com
+author:           K-2052
+google_analytics: # set tracking, remove from /includes/_ga.slim if unwanted.
+share:            true
+
+links:
+  - name:         About
+    url:          http://OneAppOneBookOneMonth.com
+    external:     true
+  - name:         Comment
+    url:          mailto:k@2052.me
+    external:     true
+  - name:         RSS
+    url:          /feed.xml
